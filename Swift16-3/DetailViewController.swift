@@ -17,6 +17,9 @@ class DetailViewController: UIViewController {
         self.title = "Detail"
         self.view.backgroundColor = UIColor.blueColor()
         
+        //测试分支
+        print("测试分支")
+        
     }
 
     override func didReceiveMemoryWarning() {
